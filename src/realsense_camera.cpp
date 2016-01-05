@@ -38,6 +38,7 @@
 #define SHOW_RGBD_FRAME 0
 
 #define USE_BGR24 0
+//#define V4L2_PIX_FMT_INZI 0
 
 
 typedef pcl::PointXYZ       PointXYZT;
